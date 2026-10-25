@@ -1,0 +1,62 @@
+Integrated development environment
+
+An integrated development environment (IDE) is software that provides a relatively comprehensive set of features for software development. An IDE is intended to enhance productivity by providing development features with a consistent user experience as opposed to using separate tools, such as vi,  GDB,  GCC, and make. 
+
+At a minimum, an IDE typically supports  source-code editing, source control, build automation, and debugging. An IDE may include support for integrating tools such as 
+a compiler, runtime environment or version control system, but sometimes such tools are bundled with the IDE. Some IDEs provide special support for constructing a graphical user interface (GUI). Many IDEs support object-oriented programming via features such as class browser and object browser. Typically, an IDE provides special support for one or more programming languages, allowing for features tailored to a language. Some IDEs can be extended to support additional languages.
+
+Although some IDEs are implemented as an  application, some are implemented as a library, often designed for a particular software platform. For example, although Eclipse has many plugins that each provide an IDE experience, Eclipse itself is not an IDE.
+
+While modern IDEs are GUI-based, there were IDEs before the availability of windowing systems like Windows and the X Window System. For example, Turbo Pascal for MS-DOS has a full-screen, text-based user experience.
+
+
+== History ==
+IDEs initially became possible when developing via a console or terminal. Early systems could not support one, since programs were submitted to a compiler or assembler via punched cards, paper tape, etc. Dartmouth BASIC, created in 1964, was the first language to have an IDE. It was also the first language to be designed for interactive computer use. Its IDE (part of the Dartmouth Time-Sharing System) was command-based, and therefore did not look much like the menu-driven, graphical IDEs popular after the advent of the graphical user interface. However it integrated editing, file management, compilation, debugging and execution in a manner consistent with a modern IDE.
+
+Maestro I is a product from Softlab Munich and was the world's first integrated development environment for software. Maestro I was installed for 22,000 programmers worldwide. Until 1989, 6,000 installations existed in the Federal Republic of Germany. Maestro was arguably the world leader in this field during the 1970s and 1980s. Today one of the last Maestro I can be found in the Museum of Information Technology at Arlington in Texas.
+
+One of the first IDEs with a plug-in concept was Softbench. In 1995 Computerwoche commented that the use of an IDE was not well received by developers since it would fence in their creativity.
+
+As of August 2023, the most commonly searched for IDEs on Google Search were Visual Studio, Visual Studio Code, and Eclipse.
+
+
+== Features ==
+Features commonly found in an IDE include:
+Language supportSome IDEs support multiple languages, such as GNU Emacs, IntelliJ IDEA, Eclipse, MyEclipse, NetBeans, MonoDevelop, JDoodle or PlayCode. Support for alternative languages is often provided by plugins, allowing them to be installed on the same IDE at the same time. For example, Flycheck is a modern on-the-fly syntax checking extension for GNU Emacs 24 with support for 39 languages. Another example is JDoodle, an online cloud-based IDE that supports 88 languages. Eclipse, and Netbeans have plugins for C/C++, Ada, GNAT (for example AdaGIDE), Perl, Python, Ruby, and PHP, which are selected between automatically based on file extension, environment or project settings.
+Syntax highlightingThe  source-code editing feature usually includes syntax highlighting, it can show both the structures, the language keywords and the syntax errors with visually distinct colors and font effects.
+Integrated terminalMany IDEs include an embedded terminal emulator, allowing developers to use a command-line interface and run shells, build tools, version control commands, package managers, and other development utilities without leaving the IDE. Terminal can also be used to test, manage, build, and run application frameworks and web frameworks.
+Continual syntax checkingCode syntax can be continuously validated while it is being edited and errors can be provided an error are introduced instead of the developer waiting until a build is run.
+Code searchThe IDE may support searching for class and function declarations, usages, variable and field read/write, etc. IDEs can use different kinds of user interface for code search, for example form-based widgets and natural-language based interfaces. The IDE may also support searching for an implementation of a declaration.
+Code completion
+Refactoring
+Version control
+Simplified configurationOne typical aim of an IDE is to reduce the configuration necessary to integrate multiple development utilities. An IDE can provide for a cohesive configuration aspect that reduces setup time and therefore increases productivity, especially in cases where learning to use the IDE is faster than otherwise integrating and learning multiple tools.
+DebuggingDebugging support usually includes setting breakpoints in the editor, visual rendering of steps, etc.
+Visual programmingVisual Basic allows users to design an application by moving programming, building blocks, or code nodes to create flowcharts or structure diagrams that are then compiled or interpreted. These flowcharts often are based on the Unified Modeling Language.
+
+This interface has been popularized with the Lego Mindstorms system and is being actively perused by a number of companies wishing to capitalize on the power of custom browsers like those found at Mozilla. KTechlab supports flowcode and is a popular open-source IDE and simulator for developing software for microcontrollers. Visual programming is also responsible for the power of distributed programming (cf. LabVIEW and EICASLAB software). An early visual programming system, Max, was modeled after an analog synthesizer design and has been used to develop real-time music performance software since the 1980s. Another early example was Prograph, a dataflow-based system originally developed for the Macintosh. The graphical programming environment "GRAPE" is used to program qfix robot kits.
+
+This approach is also used in specialist software such as Openlab, where the end-users want the flexibility of a full programming language, without the traditional learning curve associated with one.
+
+
+== Use ==
+For a long time and still somewhat today, IDEs are used more commonly in Windows environments than on Unix-like environments. A notable exception is Apple platforms. IDEs have been popular on classic Mac OS and macOS, dating back to Macintosh Programmer's Workshop, Turbo Pascal, THINK Pascal and THINK C environments of the mid-1980s. Currently, macOS programmers can choose between native IDEs like Xcode and third-party tools such as Eclipse, Netbeans and ActiveState Komodo.
+
+Instead of using an IDE, developing software for a Unix-like environment often involves using various command-line tools such as the GNU toolchain (including  GCC, GDB, and  make) and an text editor such as Emacs
+or Vim. Some programmers prefer managing makefiles (and similar build files) over the build configuration experience presented by an IDE. For example, most contributors to the PostgreSQL database use make and GDB directly. Even when building PostgreSQL for Windows via Visual C++, Perl scripts are used as a replacement for make rather than relying on any IDE features. Some Linux IDEs such as Geany attempt to provide a graphical front end to traditional build operations. Data Display Debugger is graphical front-end for many text-based debugger tools.
+
+
+== Online ==
+
+An online integrated development environment, also known as a web IDE or cloud IDE, is a browser based IDE that allows for software development or web development.An online IDE can be accessed from a web browser, allowing for a portable work environment. An online IDE does not usually contain all of the same features as a traditional or desktop IDE although all of the basic IDE features, such as syntax highlighting, are typically present.
+
+A mobile-based integrated development environment (IDE) is a software application that provides a comprehensive suite of tools for software development on mobile platforms. Unlike traditional desktop IDEs, mobile-based IDEs are designed to run on smartphones and tablets, allowing developers to write, debug, and deploy code directly from their mobile devices.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==

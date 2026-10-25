@@ -1,0 +1,29 @@
+CS101: Introduction to Programming and Computer Science (Simulated Course Syllabus)
+
+Course description:
+This course introduces students to computational thinking and programming using Python. Topics include variables, control flow, functions, recursion, basic algorithms, data structures, and object-oriented programming.
+
+Learning outcomes:
+By the end of this course, students will be able to write Python programs, analyze the efficiency of simple algorithms using Big O notation, implement common data structures, and debug programs systematically.
+
+Weekly topics:
+Week 1: Introduction to computing and Python basics (variables, data types).
+Week 2: Control flow (conditionals and loops).
+Week 3: Functions and recursion.
+Week 4: Algorithms: searching and sorting.
+Week 5: Algorithm efficiency and Big O notation.
+Week 6: Data structures: arrays, linked lists, stacks, queues.
+Week 7: Midterm exam.
+Week 8: Hash tables and trees.
+Week 9: Object-oriented programming.
+Week 10: Debugging and testing.
+Week 11: Computers and society: ethics, privacy, and algorithmic bias.
+Week 12: Open source software and licensing.
+Week 13: Project presentations.
+Week 14: Final exam review.
+
+Grading:
+Assignments: 20%. Quizzes: 10%. Midterm exam: 25%. Final project: 15%. Final exam: 30%.
+
+Policies:
+Late assignments lose 10% per day. Plagiarism results in a zero for the assignment. Attendance of at least 75% is required to sit the final exam.
